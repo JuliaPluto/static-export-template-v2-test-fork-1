@@ -87,7 +87,7 @@ details(md"""
 			Learning HTML and CSS
 		</h4>
 		<p>
-			It is easy to learn HTML and CSS because they are not 'programming languages' like Julia and JavaScript, they are <em>markup languages</em>: there are no loops, functions or arrays, you only <em>declare</em> how your document is structured (HTML) and what that structure looks like on a 2D color display (CSS).
+			It is eazzzzsy to learn HTML and CSS because they are not 'programming languages' like Julia and JavaScript, they are <em>markup languages</em>: there are no loops, functions or arrays, you only <em>declare</em> how your document is structured (HTML) and what that structure looks like on a 2D color display (CSS).
 		</p>
 		<p>
 			As an example, this is what this cell looks like, written in HTML and CSS:
